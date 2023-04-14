@@ -18,10 +18,6 @@ Users should be able to:
   - The input field is empty
   - The email address is not formatted correctly
 
-### Screenshot
-
-![](./screenshot.jpg)
-
 ### Development
 
 This Project build with HTML and Bootstrap. Main goal to follow the style-guide and make the site which is responsive, W3C validate and SEO friendly code.
