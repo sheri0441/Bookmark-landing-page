@@ -21,10 +21,6 @@ h1,h2, h3, h4, h5, summary{
 .clr-GB{
     color: var(--bm-neu-clr-Gblue);
 }
-/* 
-*{
-    outline: 1px solid red;
-} */
 
 /* login button for dektop  */
 .btn-outline-login {
@@ -126,16 +122,6 @@ h1,h2, h3, h4, h5, summary{
     }
 }
 
-/* .nav-tabs {
-    --bs-nav-tabs-border-width: var(--bs-border-width);
-    --bs-nav-tabs-border-color: var(--bs-border-color);
-    --bs-nav-tabs-border-radius: var(--bs-border-radius);
-    --bs-nav-tabs-link-hover-border-color: var(--bs-secondary-bg) var(--bs-secondary-bg) var(--bs-border-color);
-    --bs-nav-tabs-link-active-color: var(--bs-emphasis-color);
-    --bs-nav-tabs-link-active-bg: var(--bs-body-bg);
-    --bs-nav-tabs-link-active-border-color: var(--bs-border-color) var(--bs-border-color) var(--bs-body-bg);
-    border-bottom: var(--bs-nav-tabs-border-width) solid var(--bs-nav-tabs-border-color);
-} */
 
 .nav-tabs .nav-link {
     margin-bottom: calc(-1 * var(--bs-nav-tabs-border-width));
