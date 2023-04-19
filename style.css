@@ -11,7 +11,7 @@ body{
 }
 
 h1,h2, h3, h4, h5, summary{
-    color:  var(--bm-neu-clr-DGblue);
+    color:  var(--bm-neu-clr-DGblue) !important;
 }
 
 .nav-link:focus, .nav-link:hover {
